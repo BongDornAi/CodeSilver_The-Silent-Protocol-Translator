@@ -1,0 +1,8 @@
+gradio
+openai
+anthropic
+transformers
+torch
+accelerate
+sentencepiece
+protobuf

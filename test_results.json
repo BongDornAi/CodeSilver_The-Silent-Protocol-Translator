@@ -1,0 +1,18 @@
+{
+  "timestamp": "2026-02-13",
+  "tests": [
+    {
+      "name": "Condition Identification",
+      "passed": true
+    },
+    {
+      "name": "Severity Assessment",
+      "passed": false
+    },
+    {
+      "name": "Full Scenarios",
+      "passed": true
+    }
+  ],
+  "overall": "FAIL"
+}
